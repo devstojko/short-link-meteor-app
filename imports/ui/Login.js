@@ -49,7 +49,7 @@ export default class Login extends Component {
             <button className="button button--primary" >Login button</button>
           </form>
 
-          <Link to="/singup">Have an account?</Link>
+          <Link to="/singup">Need an account?</Link>
         </div>
       </div>
     );
