@@ -1,5 +1,5 @@
-#This is Short link application built on Meteor and React.
+# This is Short link application built on Meteor and React.
 
-#Authors
+## Authors
 
 Nemanja Stojkovic
