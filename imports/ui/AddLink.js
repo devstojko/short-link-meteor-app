@@ -28,19 +28,19 @@ export default class AddLink extends Component {
 
     }
 
-    onChange = (e) => {
+    onChange = () => {
         this.setState({
             url: e.target.value
         });
     }
 
-    openModal = (e) => {
+    openModal = () => {
         this.setState(prevState => ({
             isOpen: !prevState.isOpen
         }))
     }
 
-    closeModal = (e) => {
+    closeModal = () => {
 
         this.setState(prevState => ({
             isOpen: !prevState.isOpen,
