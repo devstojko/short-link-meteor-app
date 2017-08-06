@@ -1,0 +1,28 @@
+// colors
+$alto: #ddd;
+$white: #fff;
+$pomegranate: #F44336;
+$french-pass: #B3E5FC;
+$cerulean: #03A9F4;
+
+// Base config
+$space: 1.4rem;
+
+// Font sizes
+$base-font-size: 1.6rem;
+
+// Boxed view
+$boxed-view-overlay-bg: $french-pass;
+$boxed-view-bg: $white;
+
+// Input
+$input-border-color: $alto;
+
+// Button
+$button-primary-bck: $cerulean;
+$button-primary-border-color: darken($cerulean, 20%);
+
+// Error box
+$error-box-bck: rgba($pomegranate, .8);
+$error-box-border-color: darken($pomegranate, 20%);
+$error-box-text-color: $white;

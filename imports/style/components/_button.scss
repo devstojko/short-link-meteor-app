@@ -1,0 +1,15 @@
+.button {
+    font-size: $base-font-size;
+    padding: .8rem;
+    display: block;
+    text-align: center;
+    margin-bottom: $space;
+    cursor: pointer;
+
+    &--primary {
+        background-color: $button-primary-bck;
+        border: 1px solid $button-primary-border-color;
+
+    }
+
+}

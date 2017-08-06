@@ -1,0 +1,7 @@
+.error-box {
+    background-color: $error-box-bck;
+    border: 1px solid $error-box-border-color;
+    color: $error-box-text-color;
+    margin-bottom: $space;
+    padding: .8rem;
+}
